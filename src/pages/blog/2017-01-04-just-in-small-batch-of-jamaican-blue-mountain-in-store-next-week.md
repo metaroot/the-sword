@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'প্রশ্নঃ আল্লাহ তায়ালা সবার রিজিকের মালিক, তাহলে আফ্রিকার দরিদ্ররা না খেয়ে মারা যাচ্ছে কেন?'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-

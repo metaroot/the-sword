@@ -1,9 +1,10 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
 ---
-### Shade-grown coffee
+চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
+<!-- ### Shade-grown coffee
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
 ### Single origin
@@ -16,4 +17,4 @@ Sustainable agriculture is farming in sustainable ways based on an understanding
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
 ### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog. -->

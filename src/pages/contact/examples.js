@@ -9,7 +9,10 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Hi people</h1>
+              <p>
+                চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
+              </p>
+              {/* <h1>Hi people</h1>
               <p>
                 This is an example site integrating Netlify’s form handling with
                 Gatsby
@@ -40,7 +43,7 @@ export default class Index extends React.Component {
                   imorente/gatsby-netlify-form-example
                 </a>{" "}
                 for a working example.
-              </p>
+              </p> */}
             </div>
           </div>
         </section>

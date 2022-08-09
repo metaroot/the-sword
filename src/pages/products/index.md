@@ -1,56 +1,32 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: কিছু প্রশ্নোত্তর
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: the sword - কুখ্যাত নাস্তিকদের ফিতনা প্রশ্নসমূহের মোক্ষম জবাব
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ। 
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ। 
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ। 
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
 main:
-  heading: Great coffee with no compromises
+  heading: এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -63,39 +39,35 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা এবং মানুষকে ওয়াসওয়াসা দেয়া। সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword । এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: এই ব্লগের মাধ্যমে আমরা বাংলাদেশে নাস্তিক্যতাবাদের কবর রচনা করতে পারব ইনশাআল্লাহ।
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - প্রশ্ন করুন 
+        - সংশয় দুর করুন"
+        - ঈমান আনয়ন করুন"
+      plan: প্রশ্ন
+      price: 'প্রশ্ন করুন'
+    - description: 'চতুষ্পদ জন্তু সমতুল্য নাস্তিকদের নাপাক একটি কাজ হচ্ছে বিভিন্ন জায়গায় ফিতনা করা'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - প্রশ্ন করুন 
+        - সংশয় দুর করুন"
+        - ঈমান আনয়ন করুন"
+      plan: প্রশ্ন
+      price: 'সংশয় দুর করুন'
+    - description: সেই ওয়াসওয়াসা গুলো নির্মূল করতেই আমাদের উদ্যোগ the sword
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - প্রশ্ন করুন 
+        - সংশয় দুর করুন"
+        - ঈমান আনয়ন করুন"
+      plan: প্রশ্ন
+      price: 'ঈমান আনয়ন করুন'
 ---

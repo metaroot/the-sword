@@ -42,7 +42,8 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+              {/* <img src={logo} alt="the-sword" style={{ width: "88px" }} /> */}
+              <h1>the-sword</h1>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -64,19 +65,19 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+               মুলপাতা
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
+               প্রশ্নোত্তর
               </Link>
               <Link className="navbar-item" to="/blog">
-                Blog
+               ব্লগ
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+               প্রশ্ন করুন
               </Link>
               <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+              মিশন ও ভিশন
               </Link>
             </div>
             <div className="navbar-end has-text-centered">

@@ -1,33 +1,18 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: প্রশ্নঃ আল্লাহ তায়ালা সবার রিজিকের মালিক, তাহলে আফ্রিকার দরিদ্ররা না খেয়ে মারা যাচ্ছে কেন?
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: সত্যি কথা এই প্রশ্ন কোনো আস্তিক ভাইয়ের নয়।কোনো আস্তিক বা মুসলিম ভাই করে থাকলেও নাস্তিকদের বিভ্রান্তির কারণে করেছেন।
 tags:
   - flavor
   - tasting
+
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![সত্যি-কথা](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+উত্তরঃ সত্যি কথা এই প্রশ্ন কোনো আস্তিক ভাইয়ের নয়।কোনো আস্তিক বা মুসলিম ভাই করে থাকলেও নাস্তিকদের বিভ্রান্তির কারণে করেছেন। কারণ প্রশ্নটি যারা করে তারা নাস্তিক ব্লগার এবং বাম ঘরানার বুদ্ধিজীবী, তারাই প্রশ্নগুলো করে আমাদের সরলপ্রাণ মুসলিম যুবক ভাইদের মধ্যে সন্দেহের বীজ বপন করছে। কিন্তু এখানে সন্দেহের বা সংশয়ের কোনো সুযোগ নেই। আল্লাহ তায়ালা কুরআন কারীমে বলেছেন- এই ভূপৃষ্ঠে বিচরণশীল এমন কোনো জীব নেই যার রিজিকের দায়িত্ব আল্লাহর হাতে নয়। তাহলে রিজিকের দায়িত্ব যদি আল্লাহর হাতে থাকে তাহলে আফ্রিকা মহাদেশের দরিদ্র মানুষ না খেয়ে মরছে কেন? আসলে সংশয়বাদী বা নাস্তিকরা কুরআন কারীম পড়েনা। রিজিক অর্থ কি সেটা বুঝতে হবে।রিজিক মানেই চাল, ডাল, গম, আটা-রূটি, সবজি, ফল-ফলাদি এগুলো নয়। কুরআন কারীমে আল্লাহ বলেছেন যে, রিজিকতো আমার হাতে; এই অর্থটা ব্যাপক। রিজিক কি? মানুষ মুখে যা গ্রহণ করে তা রিজিক। মানুষকে আল্লাহ তায়ালা  যে ইলম, দৈহিক শক্তি, দৈহিক সৌন্দর্য দান করেন সেটাও রিজিক। আবার, মানুষকে আল্লাহ তায়ালা যে খনিজ সম্পদ দান করেন সেটাও রিজিক। এখন আফ্রিকার প্রশ্নের উত্তরে আমি বলব, পৃথিবীতে সব থেকে বেশি খনিজ সম্পদ আল্লাহ তায়ালা আফ্রিকাতে দান করেছেন। তাহলে সবচেয়ে বেশি রিজিক আল্লাহ দিলেন আফ্রিকার মানুষকে। তাহলে সে দেশের মানুষ যদি না খেয়ে মরে সেজন্য আমার আল্লাহ তায়ালা দ্বায়ী নয়, সেজন্য দ্বায়ী হচ্ছে আগ্রাসী শক্তি, পুঁজিবাদী, ভোগবাদী। পৃথিবীতে যারা লুটপাট করে খাচ্ছে সেই মার্কিন যুক্তরাষ্ট্রের নেতৃত্বে, পৃথিবীতে যে ভোগবাদী, পুঁজিবাদী শক্তি কাজ করছে তারাই আফ্রিকার রিজিক কেড়ে নিচ্ছে। নতুবা আফ্রিকার মুসলমানদেরকে আল্লাহ তায়ালা সবচেয়ে বেশি রিজিক দান করেছেন। হীরকের খনি, স্বর্ণের খনি, কয়লা, লোহা, পেট্রোল সব আফ্রিকাতে। রিজিক মানেই মুখে খাওয়া নয়। (Natural Advantages) প্রাকৃতিক সম্পদ সবচেয়ে বড় রিজিক। আর এই রিজিক সবচেয়ে বেশি আল্লাহ তায়ালা আফ্রিকাতে দিয়েছেন। তাহলে যে আফ্রিকার মানুষ না খেয়ে আছে তাদেরকে আল্লাহ রিজিক সবচেয়ে বেশি দিয়েছেন কিন্তু তাদের রিজিক কেড়ে নিচ্ছে কারা? আমেরিকা কেড়ে নিচ্ছে। Liberia, Nigeria, Tanzania এগুলোতে যুদ্ধবিগ্রহ সৃষ্টি করছে কারা? আমেরিকা, ব্রিটেন। যুগের পর যুগ আফ্রিকাতে ঔপনিবেশিক শাসন করেছে ফ্রান্স, ডাচ, ইংরেজ এখন করছে আমেরিকা। তাহলে আফ্রিকায় মানুষ যে না খেয়ে মরছে সেজন্য আমার আল্লাহ তায়ালা দ্বায়ী নয়। বরং আল্লাহ তায়ালা আফ্রিকার নিরীহ মানুষদেরকে সবচেয়ে বেশি রিজিক দিয়েছেন তা, কেড়ে খাচ্ছে পুঁজিবাদীরা। যদি ইসলামিক শাসন ব্যবস্থা কায়েম হয় আর সম্পদের সুষ্ঠ বন্টন হয় তাহলে, সবচেয়ে বেশি ধনী আর রিজিকে সমৃদ্ধ হবে আফ্রিকার মানুষ।
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## বরং আল্লাহ তায়ালা আফ্রিকার নিরীহ মানুষদেরকে সবচেয়ে বেশি রিজিক দিয়েছেন তা, কেড়ে খাচ্ছে পুঁজিবাদীরা। যদি ইসলামিক শাসন ব্যবস্থা কায়েম হয় আর সম্পদের সুষ্ঠ বন্টন হয় তাহলে, সবচেয়ে বেশি ধনী আর রিজিকে সমৃদ্ধ হবে আফ্রিকার মানুষ।
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
