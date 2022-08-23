@@ -225,3 +225,21 @@
   Link: </the-sword/component---src-pages-tags-index-js-cb0b34c28b28cb5eb36c.js>; rel=preload; as=script
   Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </the-sword/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/the-sword/blog/2022-08-23-maria/
+  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
+  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
+  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
+  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
+  Link: </the-sword/component---src-templates-blog-post-js-b29113b21ac459456004.js>; rel=preload; as=script
+  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </the-sword/page-data/blog/2022-08-23-maria/page-data.json>; rel=preload; as=fetch; crossorigin
+/the-sword/blog/2022-08-23-nastik-down-dash/
+  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
+  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
+  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
+  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
+  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
+  Link: </the-sword/component---src-templates-blog-post-js-b29113b21ac459456004.js>; rel=preload; as=script
+  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </the-sword/page-data/blog/2022-08-23-nastik-down-dash/page-data.json>; rel=preload; as=fetch; crossorigin
