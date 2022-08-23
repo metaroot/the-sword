@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-tags-js",
-    "path": "/tags/green-beans/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"the sword"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},"frontmatter":{"title":"প্রশ্নঃ আল্লাহ তায়ালা সবার রিজিকের মালিক, তাহলে আফ্রিকার দরিদ্ররা না খেয়ে মারা যাচ্ছে কেন?"}}}]}},"pageContext":{"tag":"green beans"}},
-    "staticQueryHashes": ["4080856488"]}

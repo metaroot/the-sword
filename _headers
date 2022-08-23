@@ -63,15 +63,6 @@
   Link: </the-sword/component---src-templates-product-page-js-e3633e883683bdaa12e6.js>; rel=preload; as=script
   Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </the-sword/page-data/products/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-blog-post-js-b29113b21ac459456004.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/page-data.json>; rel=preload; as=fetch; crossorigin
 /the-sword/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/
   Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
   Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
@@ -81,15 +72,6 @@
   Link: </the-sword/component---src-templates-blog-post-js-b29113b21ac459456004.js>; rel=preload; as=script
   Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </the-sword/page-data/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-blog-post-js-b29113b21ac459456004.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json>; rel=preload; as=fetch; crossorigin
 /the-sword/about/
   Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
   Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
@@ -99,24 +81,6 @@
   Link: </the-sword/component---src-templates-about-page-js-a3af37d6508cadba3dde.js>; rel=preload; as=script
   Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </the-sword/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/tags/brewing/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-tags-js-fd7c9ce5704e28eafd4e.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/tags/brewing/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/tags/chemex/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-tags-js-fd7c9ce5704e28eafd4e.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/tags/chemex/page-data.json>; rel=preload; as=fetch; crossorigin
 /the-sword/tags/flavor/
   Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
   Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
@@ -135,24 +99,6 @@
   Link: </the-sword/component---src-templates-tags-js-fd7c9ce5704e28eafd4e.js>; rel=preload; as=script
   Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </the-sword/page-data/tags/tasting/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/tags/jamaica/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-tags-js-fd7c9ce5704e28eafd4e.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/tags/jamaica/page-data.json>; rel=preload; as=fetch; crossorigin
-/the-sword/tags/green-beans/
-  Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
-  Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
-  Link: </the-sword/532a2f07-f97befafd74bf8dd0311.js>; rel=preload; as=script
-  Link: </the-sword/app-b1ee74cba7898908778e.js>; rel=preload; as=script
-  Link: </the-sword/commons-991f81798d772429b601.js>; rel=preload; as=script
-  Link: </the-sword/component---src-templates-tags-js-fd7c9ce5704e28eafd4e.js>; rel=preload; as=script
-  Link: </the-sword/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </the-sword/page-data/tags/green-beans/page-data.json>; rel=preload; as=fetch; crossorigin
 /the-sword/404/
   Link: </the-sword/webpack-runtime-d67217ebccf7c21b65b9.js>; rel=preload; as=script
   Link: </the-sword/framework-e59cfe68bce841bbc8bc.js>; rel=preload; as=script
